@@ -1,0 +1,29 @@
+body {
+    background: url(https://www.highlandernews.org/wp-content/uploads/2013/02/DPP_0085-2.jpg) no-repeat;
+
+}
+
+h1{
+    font-family: Arial;   
+}
+
+.fontWrap{
+    font-size: 50px;
+}
+
+.boxWrap{
+
+}
+.buttonWrap{
+    background-color: cornflowerblue;
+    border-radius: 25px;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+}
+
